@@ -10,18 +10,15 @@ First find the derivative of volume with respect to radius:
 
 $$
 \begin{align}
-
 V &= \frac{4}{3} \pi * r^3 \\ 
 \frac{dV}{dr} &= 4 \pi * r^2
-
 \end{align}
 $$
-Equation 2 is the equation for surface area.
+Equation 2 is just the equation for surface area.
 
 The mass at radius $r$ of an infinitely thin shell of the sphere of thickness $dr$ is the density at that radius $\rho(r)$ times the volume of that shell:
 $$
 \begin{equation}
-
 dm = \rho(r)*dV
 \end{equation}
 $$
